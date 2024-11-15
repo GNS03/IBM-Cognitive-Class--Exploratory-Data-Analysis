@@ -1,4 +1,4 @@
-# [IBM Cognitive Class] exploratory_data_analysis
+# [IBM Cognitive Class] Exploratory_Data_Analysis
  Exploratory Data Analysis (EDA) for Data Science and ML
 
 Exploratory Data Analysis (EDA) is a vital first step for any data science or machine learning project. Learn how to perform effective EDA for regression and classification! In this beginner-friendly, hands-on project you learn how basic EDA can provide vital insights into your data, and how you can use this information to improve your models.
@@ -15,6 +15,3 @@ How to improve prediction models by using information obtained through EDA
 How to perform basics of feature engineering
 How to detect and handle outliers
 How to deal with missing data
-
-What you'll need
-All you need is a basic knowledge of Python and a browser. A basic understanding of statistics and data science is helpful, but not strictly necessary.
